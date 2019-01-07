@@ -2,7 +2,7 @@
 -- USE doesn't work in AzureSQL
 
 -- Let us declare some variables
--- Problems do occur if collation if different between master and custom databases
+-- Problems do occur if collation is different between master and custom databases
 DECLARE @username varchar(60)
 DECLARE @password varchar(60)
 
